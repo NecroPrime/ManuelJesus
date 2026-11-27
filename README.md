@@ -115,11 +115,6 @@ https://jesusarcis.github.io/jesus/
 
 > El formulario actual no envía ni almacena mensajes. Los enlaces de demostración y código de las tarjetas de proyectos son marcadores pendientes de configurar.
 
-##Libertad de uso enfocado al aprendizaje
-
--Este repositorio doy consentimiento de que se use de forma ludica o educativa para crear fork ademas de pull request.
--Tambien es posible comentar cambios al autor para mejorar algunos aspectos.
-
 ## Autor
 
 **Jesús A.** — Desarrollador web
