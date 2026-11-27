@@ -6,10 +6,9 @@
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-6366F1?style=for-the-badge)
 
 ## Descripción
-
-Portafolio web personal orientado a presentar mi perfil como desarrollador web, mis habilidades técnicas y mis proyectos. Cuenta con una interfaz de temática oscura, diseño adaptable y elementos interactivos desarrollados con tecnologías web nativas.
-
-El proyecto no requiere frameworks, gestor de paquetes, base de datos ni proceso de compilación.
+JESUS ARCIS
+MAESTRO ENDES
+1ºDAM
 
 ## Características
 
@@ -117,8 +116,11 @@ https://jesusarcis.github.io/jesus/
 
 ##Libertad de uso enfocado al aprendizaje
 
--Este repositorio doy consentimiento de que se use de forma ludica o educativa para crear fork ademas de pull request.
+-Este repositorio doy consentimiento de que se use de forma ludica o educativa para crear fork ademas de pull request
 -Tambien es posible comentar cambios al autor para mejorar algunos aspectos.
+-Tambien como es obvio soy profe 
+-Dirijo 1º DAM
+-Soy de Rota
 
 ## Autor
 
