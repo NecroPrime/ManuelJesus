@@ -6,10 +6,9 @@
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-6366F1?style=for-the-badge)
 
 ## Descripción
-
-Portafolio web personal orientado a presentar mi perfil como desarrollador web, mis habilidades técnicas y mis proyectos. Cuenta con una interfaz de temática oscura, diseño adaptable y elementos interactivos desarrollados con tecnologías web nativas.
-
-El proyecto no requiere frameworks, gestor de paquetes, base de datos ni proceso de compilación.
+JESUS ARCIS
+MAESTRO ENDES
+1ºDAM
 
 ## Características
 
