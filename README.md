@@ -6,9 +6,9 @@
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-6366F1?style=for-the-badge)
 
 ## Descripción
-MANUEL JESUS MARTIN-NIÑO PRUAÑO
-ENTORNO DE DESARROLLOS
-27/11/2026
+JESUS ARCIS
+MAESTRO ENDES
+1ºDAM
 
 ## Características
 
